@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Yautil/beepad.png?columns=all)](https://waffle.io/Yautil/beepad?utm_source=badge)
 <div align="center">
 <h1>BeePad</h1>
 
